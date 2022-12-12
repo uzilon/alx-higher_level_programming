@@ -10,6 +10,6 @@ print(f"Last digit of {number:d} is {last_number:d} and is ", end="")
 if last_number > 5:
     print("greater than 5")
 elif last_number == 0:
-    print("O")
-else:
+    print("0")
+elif last_number < 6 and last-number != 0
     print("less than 6 and not 0")
