@@ -11,5 +11,5 @@ if last_number > 5:
     print("greater than 5")
 elif last_number == 0:
     print("0")
-elif last_number < 6 and last_number != 0:
+else:
     print("less than 6 and not 0")
